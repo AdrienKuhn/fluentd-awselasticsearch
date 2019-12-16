@@ -30,7 +30,7 @@ GEM
     elasticsearch-transport (7.1.0)
       faraday
       multi_json
-    excon (0.64.0)
+    excon (0.71.0)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     faraday_middleware-aws-sigv4 (0.2.4)
